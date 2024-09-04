@@ -11,27 +11,27 @@ website:
       - icon: twitter
         href: https://twitter.com
   sidebar:
-    id: multiple-page
-    style: "docked"
-    search: true
-    contents:
-      - text: "Introduction"
-        href: posts/multiple_pages/index.qmd
-      - text: "Part 1"
-        href: posts/multiple_pages/part1.qmd
-      - text: "Part 2"
-        href: posts/multiple_pages/part2.qmd
-  sidebar:
-    id: multiple-triquel
-    style: "docked"
-    search: true
-    contents:
-      - text: "Introduction"
-        href: posts/multiple_pages_three/index.qmd
-      - text: "Part 1"
-        href: posts/multiple_pages_three/part1.qmd
-      - text: "Part 2"
-        href: posts/multiple_pages_three/part2.qmd
+    - id: multiple-page
+      style: "docked"
+      search: true
+      contents:
+        - text: "Introduction"
+          href: posts/multiple_pages/index.qmd
+        - text: "Part 1"
+          href: posts/multiple_pages/part1.qmd
+        - text: "Part 2"
+          href: posts/multiple_pages/part2.qmd
+          
+    - id: multiple-triquel
+      style: "docked"
+      search: true
+      contents:
+        - text: "Introduction"
+          href: posts/multiple_pages_three/index.qmd
+        - text: "Part 1"
+          href: posts/multiple_pages_three/part1.qmd
+        - text: "Part 2"
+          href: posts/multiple_pages_three/part2.qmd
 format:
   html:
     theme: cosmo
