@@ -1,0 +1,6 @@
+---
+title: multiple page sequel
+description: A second multi-page post, but testing to set the sidebar on `posts/_metadata.yml`
+sidebar: multipage-sequel
+---
+A second multi-page post, but testing to set the sidebar on `posts/_metadata.yml`

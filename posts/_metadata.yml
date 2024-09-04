@@ -7,3 +7,16 @@ freeze: true
 # Enable banner style title blocks
 title-block-banner: true
 page-navigation: true
+
+website:
+  sidebar:
+    id: multipage-sequel
+    style: "docked"
+    search: true
+    contents:
+      - text: "Introduction"
+        href: posts/multiple_pages_two/index.qmd
+      - text: "Part 1"
+        href: posts/multiple_pages_two/part1.qmd
+      - text: "Part 2"
+        href: posts/multiple_pages_two/part2.qmd

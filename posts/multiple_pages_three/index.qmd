@@ -1,0 +1,6 @@
+---
+title: multiple page triquel #2
+description: A third multi-page post, but testing to set the sidebar on `posts/_metadata.yml`
+sidebar: multipage-triquel
+---
+A third multi-page post, rollback to `.quarto.yml`
