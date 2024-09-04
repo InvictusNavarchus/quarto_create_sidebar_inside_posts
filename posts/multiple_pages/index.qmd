@@ -1,0 +1,6 @@
+---
+title: post with multiple pages
+description: There should be a sidebar in this post
+---
+
+Here, you should see multiple post in the left sidebar right

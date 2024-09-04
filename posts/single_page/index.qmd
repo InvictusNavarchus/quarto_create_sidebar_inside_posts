@@ -1,0 +1,6 @@
+---
+title: Post with one page only
+description: There shouldn't be a sidebar in this post
+---
+
+There shouldn't be a sidebar here
