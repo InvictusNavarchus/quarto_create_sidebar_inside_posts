@@ -1,0 +1,26 @@
+---
+title: sidebar customization
+description: Testing various sidebar customization
+sidebar: multipage-customize-sidebar
+---
+Testing various sidebar customization
+
+Lorem ipsum dolor sit amet, sed ut intelligamus unde omnis error nascitur, videamus quae sit natura voluptatis et doloris. Voluptas est ille motus animi qui nos ad bonum ducit. Dolor autem est ille motus qui nos a malo repellit.
+
+Sed quid est quod nos facit ut voluptatem sequamur et dolorem fugiamus? Non est quia voluptas sit bonum et dolor sit malum. Sed quia voluptas est id quod nos facit felices, et dolor est id quod nos facit infelices.
+
+Quare igitur voluptatem sequimur et dolorem fugimus? Quia nos amamus felicitatem et odimus infelicitatem. Et quia voluptas est ille motus qui nos ad felicitatem ducit, et dolor est ille motus qui nos a felicitate repellit.
+
+Sed non est facile discernere quid sit voluptas et quid sit dolor. Saepe enim id quod nobis videtur esse voluptas, est in re vera dolor. Et saepe id quod nobis videtur esse dolor, est in re vera voluptas.
+
+Quare igitur debemus esse prudentes et circumspecti in nostra vita. Debemus intelligere quid sit voluptas et quid sit dolor. Et debemus sequi voluptatem et fugere dolorem, sed non sine prudentia et circumspectione
+
+Sed quomodo possumus intelligere quid sit voluptas et quid sit dolor? Non est facile respondere. Saepe enim id quod nobis videtur esse voluptas, est in re vera dolor. Et saepe id quod nobis videtur esse dolor, est in re vera voluptas.
+
+Unus modus est, ut consideremus nostras cogitationes et actiones. Quid est quod nos facit felices? Quid est quod nos facit infelices? Si nos intelligimus id quod nos facit felices, poterimus sequi voluptatem. Et si nos intelligimus id quod nos facit infelices, poterimus fugere dolorem.
+
+Sed non est satis intelligere quid sit voluptas et quid sit dolor. Debemus etiam agere ut voluptatem sequamur et dolorem fugiamus. Debemus esse prudentes et circumspecti in nostra vita. Debemus intelligere quid sit bonum et quid sit malum.
+
+Quid est igitur bonum? Quid est malum? Bonum est id quod nos facit felices et beatos. Malum est id quod nos facit infelices et miserables. Si nos intelligimus id quod est bonum, poterimus sequi voluptatem. Et si nos intelligimus id quod est malum, poterimus fugere dolorem.
+
+Sed non est facile agere ut voluptatem sequamur et dolorem fugiamus. Saepe enim sumus tentati a malis cupiditatibus et voluptatibus. Et saepe sumus impediti a nostris metibus et timoribus. Debemus igitur esse fortes et constantes in nostra vita. Debemus intelligere quid sit voluptas et quid sit dolor, et debemus agere ut voluptatem sequamur et dolorem fugiamus

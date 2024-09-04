@@ -32,6 +32,28 @@ website:
           href: posts/multiple_pages_three/part1.qmd
         - text: "Part 2"
           href: posts/multiple_pages_three/part2.qmd
+          
+    - id: multipage-customize-sidebar
+      title: Page List
+      style: floating
+      background: dark
+      border: true
+      tools:
+      - icon: twitter
+        href: https://twitter.com
+      - icon: github
+        menu:
+          - text: Source Code
+            href:  https://code.com
+          - text: Report a Bug
+            href:  https://bugs.com
+      contents:
+        - text: "Introduction"
+          href: posts/multiple_pages_customize_sidebar/index.qmd
+        - text: "Part 1"
+          href: posts/multiple_pages_customize_sidebar/part1.qmd
+        - text: "Part 2"
+          href: posts/multiple_pages_customize_sidebar/part2.qmd
 format:
   html:
     theme: cosmo
