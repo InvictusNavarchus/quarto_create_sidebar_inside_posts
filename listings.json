@@ -3,8 +3,6 @@
     "listing": "/index.html",
     "items": [
       "/posts/multiple_pages/index.html",
-      "/posts/multiple_pages/part1.html",
-      "/posts/multiple_pages/part2.html",
       "/posts/single_page/index.html"
     ]
   }

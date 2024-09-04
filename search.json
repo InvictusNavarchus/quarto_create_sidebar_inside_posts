@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Creating sidebar inside a post",
     "section": "",
-    "text": "This homepage shouldn’t have a sidebar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\npost with multiple pages\n\n\n\n\n\nThere should be a sidebar in this post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\npart 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\npart 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost with one page only\n\n\n\n\n\nThere shouldn’t be a sidebar in this post\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "This homepage shouldn’t have a sidebar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\npost with multiple pages\n\n\n\n\n\nThere should be a sidebar in this post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost with one page only\n\n\n\n\n\nThere shouldn’t be a sidebar in this post\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/single_page/index.html",
@@ -18,21 +18,31 @@
     "href": "posts/multiple_pages/part1.html",
     "title": "part 1",
     "section": "",
-    "text": "Hello, this is part 1"
+    "text": "Hello, this is part 1",
+    "crumbs": [
+      "Part 1"
+    ]
   },
   {
     "objectID": "posts/multiple_pages/index.html",
     "href": "posts/multiple_pages/index.html",
     "title": "post with multiple pages",
     "section": "",
-    "text": "Here, you should see multiple post in the left sidebar right"
+    "text": "Here, you should see multiple post in the left sidebar right",
+    "crumbs": [
+      "About",
+      "Introduction"
+    ]
   },
   {
     "objectID": "posts/multiple_pages/part2.html",
     "href": "posts/multiple_pages/part2.html",
     "title": "part 2",
     "section": "",
-    "text": "hello, this is part 2"
+    "text": "hello, this is part 2",
+    "crumbs": [
+      "Part 2"
+    ]
   },
   {
     "objectID": "about.html",
