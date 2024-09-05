@@ -1,17 +1,28 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Creating sidebar inside a post",
+    "objectID": "posts/multiple_pages_two/part1.html",
+    "href": "posts/multiple_pages_two/part1.html",
+    "title": "Part 1",
     "section": "",
-    "text": "This homepage shouldn’t have a sidebar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\npost with multiple pages\n\n\n\n\n\nThere should be a sidebar in this post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost with one page only\n\n\n\n\n\nThere shouldn’t be a sidebar in this post\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "This is part 1"
   },
   {
-    "objectID": "posts/single_page/index.html",
-    "href": "posts/single_page/index.html",
-    "title": "Post with one page only",
+    "objectID": "posts/multiple_pages_two/part2.html",
+    "href": "posts/multiple_pages_two/part2.html",
+    "title": "Part 2",
     "section": "",
-    "text": "There shouldn’t be a sidebar here"
+    "text": "This is part 2"
+  },
+  {
+    "objectID": "posts/multiple_pages_customize_sidebar/index.html",
+    "href": "posts/multiple_pages_customize_sidebar/index.html",
+    "title": "sidebar customization",
+    "section": "",
+    "text": "Testing various sidebar customization\nLorem ipsum dolor sit amet, sed ut intelligamus unde omnis error nascitur, videamus quae sit natura voluptatis et doloris. Voluptas est ille motus animi qui nos ad bonum ducit. Dolor autem est ille motus qui nos a malo repellit.\nSed quid est quod nos facit ut voluptatem sequamur et dolorem fugiamus? Non est quia voluptas sit bonum et dolor sit malum. Sed quia voluptas est id quod nos facit felices, et dolor est id quod nos facit infelices.\nQuare igitur voluptatem sequimur et dolorem fugimus? Quia nos amamus felicitatem et odimus infelicitatem. Et quia voluptas est ille motus qui nos ad felicitatem ducit, et dolor est ille motus qui nos a felicitate repellit.\nSed non est facile discernere quid sit voluptas et quid sit dolor. Saepe enim id quod nobis videtur esse voluptas, est in re vera dolor. Et saepe id quod nobis videtur esse dolor, est in re vera voluptas.\nQuare igitur debemus esse prudentes et circumspecti in nostra vita. Debemus intelligere quid sit voluptas et quid sit dolor. Et debemus sequi voluptatem et fugere dolorem, sed non sine prudentia et circumspectione\nSed quomodo possumus intelligere quid sit voluptas et quid sit dolor? Non est facile respondere. Saepe enim id quod nobis videtur esse voluptas, est in re vera dolor. Et saepe id quod nobis videtur esse dolor, est in re vera voluptas.\nUnus modus est, ut consideremus nostras cogitationes et actiones. Quid est quod nos facit felices? Quid est quod nos facit infelices? Si nos intelligimus id quod nos facit felices, poterimus sequi voluptatem. Et si nos intelligimus id quod nos facit infelices, poterimus fugere dolorem.\nSed non est satis intelligere quid sit voluptas et quid sit dolor. Debemus etiam agere ut voluptatem sequamur et dolorem fugiamus. Debemus esse prudentes et circumspecti in nostra vita. Debemus intelligere quid sit bonum et quid sit malum.\nQuid est igitur bonum? Quid est malum? Bonum est id quod nos facit felices et beatos. Malum est id quod nos facit infelices et miserables. Si nos intelligimus id quod est bonum, poterimus sequi voluptatem. Et si nos intelligimus id quod est malum, poterimus fugere dolorem.\nSed non est facile agere ut voluptatem sequamur et dolorem fugiamus. Saepe enim sumus tentati a malis cupiditatibus et voluptatibus. Et saepe sumus impediti a nostris metibus et timoribus. Debemus igitur esse fortes et constantes in nostra vita. Debemus intelligere quid sit voluptas et quid sit dolor, et debemus agere ut voluptatem sequamur et dolorem fugiamus",
+    "crumbs": [
+      "About",
+      "Introduction"
+    ]
   },
   {
     "objectID": "posts/multiple_pages/part1.html",
@@ -21,17 +32,6 @@
     "text": "Hello, this is part 1",
     "crumbs": [
       "Part 1"
-    ]
-  },
-  {
-    "objectID": "posts/multiple_pages/index.html",
-    "href": "posts/multiple_pages/index.html",
-    "title": "post with multiple pages",
-    "section": "",
-    "text": "Here, you should see multiple post in the left sidebar right",
-    "crumbs": [
-      "About",
-      "Introduction"
     ]
   },
   {
@@ -45,10 +45,113 @@
     ]
   },
   {
+    "objectID": "posts/what-is-data/index.html",
+    "href": "posts/what-is-data/index.html",
+    "title": "What is Data",
+    "section": "",
+    "text": "Data is a raw source of information"
+  },
+  {
+    "objectID": "posts/single_page/index.html",
+    "href": "posts/single_page/index.html",
+    "title": "Post with one page only",
+    "section": "",
+    "text": "There shouldn’t be a sidebar here"
+  },
+  {
+    "objectID": "posts/multiple_pages_three/index.html",
+    "href": "posts/multiple_pages_three/index.html",
+    "title": "multiple page triquel",
+    "section": "",
+    "text": "A third multi-page post, rollback to .quarto.yml",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Creating sidebar inside a post",
+    "section": "",
+    "text": "This homepage shouldn’t have a sidebar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\npost with multiple pages\n\n\n\n\n\nThere should be a sidebar in this post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nsidebar customization\n\n\n\n\n\nTesting various sidebar customization\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nmultiple page triquel\n\n\n\n\n\nA third multi-page post, but testing to set the sidebar on posts/_metadata.yml\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nmultiple page sequel\n\n\n\n\n\nA second multi-page post, but testing to set the sidebar on posts/_metadata.yml\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost with one page only\n\n\n\n\n\nThere shouldn’t be a sidebar in this post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat is Data\n\n\n\n\n\nExplain what data is\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/multiple_pages_three/part2.html",
+    "href": "posts/multiple_pages_three/part2.html",
+    "title": "Part 2",
+    "section": "",
+    "text": "This is part 2",
+    "crumbs": [
+      "Part 2"
+    ]
+  },
+  {
+    "objectID": "posts/multiple_pages_three/part1.html",
+    "href": "posts/multiple_pages_three/part1.html",
+    "title": "Part 1",
+    "section": "",
+    "text": "This is part 1",
+    "crumbs": [
+      "Part 1"
+    ]
+  },
+  {
+    "objectID": "posts/what-is-data/part2.html",
+    "href": "posts/what-is-data/part2.html",
+    "title": "part 2",
+    "section": "",
+    "text": "hello, this is part 2"
+  },
+  {
+    "objectID": "posts/what-is-data/part1.html",
+    "href": "posts/what-is-data/part1.html",
+    "title": "part 1",
+    "section": "",
+    "text": "Hello, this is part 1"
+  },
+  {
+    "objectID": "posts/multiple_pages/index.html",
+    "href": "posts/multiple_pages/index.html",
+    "title": "post with multiple pages",
+    "section": "",
+    "text": "Here, you should see multiple post in the left sidebar right",
+    "crumbs": [
+      "About",
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "posts/multiple_pages_customize_sidebar/part2.html",
+    "href": "posts/multiple_pages_customize_sidebar/part2.html",
+    "title": "Part 2",
+    "section": "",
+    "text": "This is part 2",
+    "crumbs": [
+      "Part 2"
+    ]
+  },
+  {
+    "objectID": "posts/multiple_pages_customize_sidebar/part1.html",
+    "href": "posts/multiple_pages_customize_sidebar/part1.html",
+    "title": "Part 1",
+    "section": "",
+    "text": "This is part 1",
+    "crumbs": [
+      "Part 1"
+    ]
+  },
+  {
+    "objectID": "posts/multiple_pages_two/index.html",
+    "href": "posts/multiple_pages_two/index.html",
+    "title": "multiple page sequel",
+    "section": "",
+    "text": "A second multi-page post, but testing to set the sidebar on posts/_metadata.yml"
   }
 ]

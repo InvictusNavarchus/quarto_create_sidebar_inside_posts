@@ -3,7 +3,11 @@
     "listing": "/index.html",
     "items": [
       "/posts/multiple_pages/index.html",
-      "/posts/single_page/index.html"
+      "/posts/multiple_pages_customize_sidebar/index.html",
+      "/posts/multiple_pages_three/index.html",
+      "/posts/multiple_pages_two/index.html",
+      "/posts/single_page/index.html",
+      "/posts/what-is-data/index.html"
     ]
   }
 ]

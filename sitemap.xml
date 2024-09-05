@@ -1,27 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://InvictusNavarchus.github.io/quarto_create_sidebar_inside_posts/index.html</loc>
-    <lastmod>2024-09-04T06:21:57.180Z</lastmod>
+    <loc>https://InvictusNavarchus.github.io/quarto_create_sidebar_inside_posts/posts/multiple_pages_two/part1.html</loc>
+    <lastmod>2024-09-05T07:59:06.957Z</lastmod>
   </url>
   <url>
-    <loc>https://InvictusNavarchus.github.io/quarto_create_sidebar_inside_posts/posts/single_page/index.html</loc>
-    <lastmod>2024-09-04T04:15:07.557Z</lastmod>
+    <loc>https://InvictusNavarchus.github.io/quarto_create_sidebar_inside_posts/posts/multiple_pages_two/part2.html</loc>
+    <lastmod>2024-09-05T07:59:06.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://InvictusNavarchus.github.io/quarto_create_sidebar_inside_posts/posts/multiple_pages_customize_sidebar/index.html</loc>
+    <lastmod>2024-09-05T07:59:06.957Z</lastmod>
   </url>
   <url>
     <loc>https://InvictusNavarchus.github.io/quarto_create_sidebar_inside_posts/posts/multiple_pages/part1.html</loc>
-    <lastmod>2024-09-04T04:15:07.557Z</lastmod>
-  </url>
-  <url>
-    <loc>https://InvictusNavarchus.github.io/quarto_create_sidebar_inside_posts/posts/multiple_pages/index.html</loc>
-    <lastmod>2024-09-04T06:38:56.071Z</lastmod>
+    <lastmod>2024-09-05T07:59:06.957Z</lastmod>
   </url>
   <url>
     <loc>https://InvictusNavarchus.github.io/quarto_create_sidebar_inside_posts/posts/multiple_pages/part2.html</loc>
-    <lastmod>2024-09-04T04:15:07.557Z</lastmod>
+    <lastmod>2024-09-05T07:59:06.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://InvictusNavarchus.github.io/quarto_create_sidebar_inside_posts/posts/what-is-data/index.html</loc>
+    <lastmod>2024-09-05T07:59:06.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://InvictusNavarchus.github.io/quarto_create_sidebar_inside_posts/posts/single_page/index.html</loc>
+    <lastmod>2024-09-05T07:59:06.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://InvictusNavarchus.github.io/quarto_create_sidebar_inside_posts/posts/multiple_pages_three/index.html</loc>
+    <lastmod>2024-09-05T07:59:06.957Z</lastmod>
   </url>
   <url>
     <loc>https://InvictusNavarchus.github.io/quarto_create_sidebar_inside_posts/about.html</loc>
-    <lastmod>2024-09-04T04:15:07.557Z</lastmod>
+    <lastmod>2024-09-05T07:59:06.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://InvictusNavarchus.github.io/quarto_create_sidebar_inside_posts/index.html</loc>
+    <lastmod>2024-09-05T07:59:06.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://InvictusNavarchus.github.io/quarto_create_sidebar_inside_posts/posts/multiple_pages_three/part2.html</loc>
+    <lastmod>2024-09-05T07:59:06.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://InvictusNavarchus.github.io/quarto_create_sidebar_inside_posts/posts/multiple_pages_three/part1.html</loc>
+    <lastmod>2024-09-05T07:59:06.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://InvictusNavarchus.github.io/quarto_create_sidebar_inside_posts/posts/what-is-data/part2.html</loc>
+    <lastmod>2024-09-05T07:59:06.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://InvictusNavarchus.github.io/quarto_create_sidebar_inside_posts/posts/what-is-data/part1.html</loc>
+    <lastmod>2024-09-05T07:59:06.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://InvictusNavarchus.github.io/quarto_create_sidebar_inside_posts/posts/multiple_pages/index.html</loc>
+    <lastmod>2024-09-05T07:59:06.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://InvictusNavarchus.github.io/quarto_create_sidebar_inside_posts/posts/multiple_pages_customize_sidebar/part2.html</loc>
+    <lastmod>2024-09-05T07:59:06.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://InvictusNavarchus.github.io/quarto_create_sidebar_inside_posts/posts/multiple_pages_customize_sidebar/part1.html</loc>
+    <lastmod>2024-09-05T07:59:06.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://InvictusNavarchus.github.io/quarto_create_sidebar_inside_posts/posts/multiple_pages_two/index.html</loc>
+    <lastmod>2024-09-05T07:59:06.957Z</lastmod>
   </url>
 </urlset>
