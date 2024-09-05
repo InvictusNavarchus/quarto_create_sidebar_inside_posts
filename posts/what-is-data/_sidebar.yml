@@ -1,0 +1,8 @@
+id: what-is-data
+contents:
+  - text: "Introduction"
+    href: posts/what-is-data/index.qmd
+  - text: "Part 1"
+    href: posts/what-is-data/part1.qmd
+  - text: "Part 2"
+    href: posts/what-is-data/part2.qmd

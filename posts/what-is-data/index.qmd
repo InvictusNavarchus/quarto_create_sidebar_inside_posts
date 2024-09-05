@@ -1,0 +1,7 @@
+---
+title: What is Data
+description: Explain what data is
+sidebar: what-is-data
+---
+
+Data is a raw source of information
