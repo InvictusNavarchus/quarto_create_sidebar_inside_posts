@@ -49,7 +49,11 @@
     "href": "posts/what-is-data/index.html",
     "title": "What is Data",
     "section": "",
-    "text": "Data is a raw source of information"
+    "text": "Data is a raw source of information",
+    "crumbs": [
+      "About",
+      "Introduction"
+    ]
   },
   {
     "objectID": "posts/single_page/index.html",
@@ -107,14 +111,20 @@
     "href": "posts/what-is-data/part2.html",
     "title": "part 2",
     "section": "",
-    "text": "hello, this is part 2"
+    "text": "hello, this is part 2",
+    "crumbs": [
+      "Part 2"
+    ]
   },
   {
     "objectID": "posts/what-is-data/part1.html",
     "href": "posts/what-is-data/part1.html",
     "title": "part 1",
     "section": "",
-    "text": "Hello, this is part 1"
+    "text": "Hello, this is part 1",
+    "crumbs": [
+      "Part 1"
+    ]
   },
   {
     "objectID": "posts/multiple_pages/index.html",
